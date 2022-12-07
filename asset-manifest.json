@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Silder_Cutomers_Reviews_By_React/static/css/main.43576144.chunk.css",
+    "main.js": "/Silder_Cutomers_Reviews_By_React/static/js/main.78cd0988.chunk.js",
+    "main.js.map": "/Silder_Cutomers_Reviews_By_React/static/js/main.78cd0988.chunk.js.map",
+    "runtime-main.js": "/Silder_Cutomers_Reviews_By_React/static/js/runtime-main.95b14ff4.js",
+    "runtime-main.js.map": "/Silder_Cutomers_Reviews_By_React/static/js/runtime-main.95b14ff4.js.map",
+    "static/js/2.5c458157.chunk.js": "/Silder_Cutomers_Reviews_By_React/static/js/2.5c458157.chunk.js",
+    "static/js/2.5c458157.chunk.js.map": "/Silder_Cutomers_Reviews_By_React/static/js/2.5c458157.chunk.js.map",
+    "index.html": "/Silder_Cutomers_Reviews_By_React/index.html",
+    "precache-manifest.487b3fcdc877f7798f846fc62d6f381c.js": "/Silder_Cutomers_Reviews_By_React/precache-manifest.487b3fcdc877f7798f846fc62d6f381c.js",
+    "service-worker.js": "/Silder_Cutomers_Reviews_By_React/service-worker.js",
+    "static/css/main.43576144.chunk.css.map": "/Silder_Cutomers_Reviews_By_React/static/css/main.43576144.chunk.css.map",
+    "static/js/2.5c458157.chunk.js.LICENSE.txt": "/Silder_Cutomers_Reviews_By_React/static/js/2.5c458157.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95b14ff4.js",
+    "static/js/2.5c458157.chunk.js",
+    "static/css/main.43576144.chunk.css",
+    "static/js/main.78cd0988.chunk.js"
+  ]
+}
